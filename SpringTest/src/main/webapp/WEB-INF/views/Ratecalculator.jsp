@@ -2,13 +2,11 @@
 <%@ page session="false" pageEncoding="utf-8" %>
 <html>
 	<head>
-		<link href="https://fonts.googleapis.com/css?family=Paytone+One|Staatliches|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
 		<title>Select Box - CSS</title>
 		<style>
 			div#select_box {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;
+font-family: 'Alatsi', sans-serif;
 				position: relative;
 				width: 90%;
 				height: 20%;
@@ -16,9 +14,7 @@
 				border: 1px solid #FFFFFF;
 			}
 			div#select_box label {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;
+				font-family: 'Alatsi', sans-serif;
 				position: absolute;
 				font-size: 19px;
 				color: #a97228;
@@ -27,9 +23,7 @@
 				letter-spacing: 1px;
 			}
 			div#select_box select#country {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;		
+				font-family: 'Alatsi', sans-serif;		
 				width: 90%;
 				height: 20%;
 				min-height: 40px;
@@ -41,9 +35,7 @@
 			}
 			
 			div#select_box02 {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;		
+				font-family: 'Alatsi', sans-serif;
 				position: relative;
 				width: 110%;
 				height: 20%;
@@ -52,9 +44,7 @@
 				font-size: 19px;
 			}
 			div#select_box02 label {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;
+				font-family: 'Alatsi', sans-serif;
 				position: absolute;
 				font-size: 19px;
 				color: #a97228;
@@ -63,9 +53,7 @@
 				letter-spacing: 1px;
 			}
 			div#select_box02 select#country {
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;		
+				font-family: 'Alatsi', sans-serif;	
 				width: 110%;
 				height: 20%;
 				min-height: 40px;
@@ -76,9 +64,7 @@
 				font-size: 19px;
 			}
 			.labels{
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;
+				font-family: 'Alatsi', sans-serif;
 				font-size: 19px;
 			}			
 						

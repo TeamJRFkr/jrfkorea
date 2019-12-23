@@ -2,6 +2,16 @@
 <%@ page session="false" pageEncoding="utf-8" %>
 <html>
 	<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154000930-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154000930-1');
+</script>
+	
 		<title>JRF Korea</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -9,7 +19,7 @@
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="resources/assets/css/noscript.css" />
-		<link href="https://fonts.googleapis.com/css?family=Adamina|Fascinate+Inline|Paytone+One|Staatliches|Yanone+Kaffeesatz&display=swap" rel="stylesheet">		
+		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">		
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBHk9HHsL64-VGZ313wH4Xu2jfsEUQ2Pbg" ></script>
 		<script>
@@ -36,11 +46,7 @@
 				'display:';
 				width: 100%;
 				height: 100px;
-				font-family: 'Paytone One', sans-serif;
-				font-family: 'Staatliches', cursive;
-				font-family: 'Yanone Kaffeesatz', sans-serif;
-				font-family: 'Fascinate Inline', cursive;
-				font-family: 'Adamina', serif;				
+				font-family: 'Alatsi', sans-serif;			
 			}
 			td {
 				padding: 40px;
