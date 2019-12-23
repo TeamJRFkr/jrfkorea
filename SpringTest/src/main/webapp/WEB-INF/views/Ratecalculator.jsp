@@ -144,7 +144,7 @@
 	
 	</script>		
 	</head>
-	<body bgcolor="#FFFFFF">
+	<body>
 	<table>
 		<tr>
 			<td colspan ="3"><font color="#a97228" class="labels"><b>Receive</b></font></td>

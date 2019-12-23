@@ -18,6 +18,7 @@
                         <h3>Customer Service Center</h3>
                         <h2>+82-2-6927-3477</h2>																					
                     </header>
+                    <div class="terms"><a href="./terms.do">Terms and Conditions</a></div>
                     <p>Weekdays : 09:00 - 19:00</p>
                     <p>Weekends / Holidays : 10:00 - 19:00</p>
                     <p>

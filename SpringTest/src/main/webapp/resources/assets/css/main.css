@@ -2523,6 +2523,19 @@ input, select, textarea {
 					color: rgba(212, 212, 212, 0.85);
 				}
 
+		#footer .terms {
+			top : 30px;
+			right: 60px;
+			position: absolute;
+			display: block;
+			z-index: 1;
+		}
+		
+		#footer .termsSelect {
+			text-align: center;
+			font-size: 25px;
+		}
+
 /* Carousel */
 
 	.carousel {
