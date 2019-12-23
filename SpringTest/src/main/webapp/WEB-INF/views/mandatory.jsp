@@ -39,7 +39,7 @@
                             <header>
                             	<div class="">
                                 <b><a href="./terms.do" style="margin-right: 50px;">User Agreement</a><a href="./policy.do" style="margin-right: 50px;">Privacy Policy</a>
-                                <a href="./mandatory.do" style="pointer-events: none; margin-right: 50px">Mandatory Consent</a><a href="./selection.do">Selection Consent</a></b>
+                                <a href="./mandatory.do" style="pointer-events: none; margin-right: 50px; color: #f04141;">Mandatory Consent</a><a href="./selection.do">Selection Consent</a></b>
                                 </div>
                             </header>
                             <p>
