@@ -38,8 +38,6 @@
 						<a href="javascript:toSNS('google','JRFKOREA','http://jrfkorea.coj.kr/')" title="구글플러스로 가져가기"><img src="resources/images/google.png"></a>                    
                 </section>
 
-
-
             </div>
 
         </div>
