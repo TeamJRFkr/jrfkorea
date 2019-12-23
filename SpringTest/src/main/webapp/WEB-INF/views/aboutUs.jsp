@@ -20,16 +20,15 @@
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="resources/assets/css/noscript.css" />
-		<link href="https://fonts.googleapis.com/css?family=Adamina|Bad+Script|Fascinate+Inline|Paytone+One|Staatliches|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">		
 
 		<style>
       #main {
-			font-family: 'Paytone One', sans-serif;
-			font-family: 'Staatliches', cursive;
-			font-family: 'Yanone Kaffeesatz', sans-serif;
-			font-family: 'Fascinate Inline', cursive;
-			font-family: 'Adamina', serif;
-			font-family: 'Bad Script', cursive;
+				font-family: 'Alatsi', sans-serif;
+      }
+      .fonttow{
+      			font-family: 'Quicksand', sans-serif;
       }		
 		</style>		
 	</head>
@@ -50,7 +49,7 @@
                     <article id="main" class="special">
                         <header>
                             <h2>About Us</h2>
-                            <p>
+                            <p class="fonttow">
                                 Send Your Money Around The Globe With JRF
                             </p>
                         </header>
@@ -58,7 +57,7 @@
                             <header>
                                 <h3>What We Do?</h3>
                             </header>
-                            <p>
+                            <p class="fonttow">
                                 JRF is registered remittance company in Japan.<br />
                                 We can send your money all over the world with strong alliance with NCC bank, BOC, Prabhu group, Bank BRI, BDO, BPI, Donga Bank.<br />
                                 Japan Remit Finance Co., Ltd. ( "JRF") is an international money transfer company, which was established in September 2011.<br />
@@ -71,7 +70,7 @@
                             <header>
                                 <h3>CEO Message</h3>
                             </header>
-                            <p>
+                            <p class="fonttow">
                                 Dear Valued Customers,<br />
                                 My name is Hossain MD. Sarwar Sunny, CEO of Japan Remit Finance Co, Ltd. <br />
                                 The first time I was involved in a remittance business, dated back 15 years ago when I used to work for an international bank in Tokyo. <br />
