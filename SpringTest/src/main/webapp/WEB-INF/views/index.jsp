@@ -19,7 +19,9 @@
     <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick.css" />
     <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick-theme.css" />
     <link rel="stylesheet" href="resources/assets/css/noscript.css" />
-	<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">    
+	<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">		    
     <style type="text/css">
         .slider {
             width: 50%;
@@ -62,7 +64,15 @@
 			top: 20%;
 		  float: right;
 		  width: 50%;
-		}        
+		}
+		#header > h1{
+        	font-family: 'Alatsi', sans-serif;
+        }
+        
+        #header > p{
+        	font-family: 'Quicksand', sans-serif;
+        	font-size : 50px;
+        }  
     </style>
 </head>
 <body class="homepage is-preload">
