@@ -1,8 +1,7 @@
-﻿<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+﻿﻿<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" pageEncoding="utf-8" %>
 <html>
-	<head>
-	
+	<head>	
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154000930-1"></script>
 <script>
