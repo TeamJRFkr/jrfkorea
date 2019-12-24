@@ -279,7 +279,7 @@
 			<div class="input-inbox ns-en" style="width:100%; height: 70px;box-sizing: border-box;border-bottom: 2px solid #fff; position:relative">
 				<div class="method_btn receive" style="width:100%">
 					<a href="#" style="text-decoration: none; display: flex; align-items: center;" >
-                		<p id = "method_title" class="currencies_method_title" style="font-family:'Alatsi', sans-serif; font-size: 24px; color: #fff; margin: 5px; width:90%">Cash Pickup</p>
+                		<p id = "method_title" class="currencies_method_title" style="font-family:'Alatsi', sans-serif; font-size: 20px; color: #fff; margin: 5px; width:90%">Cash Pickup</p>
                 		<i class="icon_arrow" style="transform:rotate(135deg); float:left; "></i>
                		</a>
                	</div>
@@ -308,7 +308,7 @@
 		<!--// money-infor-inner -->
 		
 		<div style="margin-top:25px">
-			<span class="currencies_method_txt" style="font-family:'Alatsi', sans-serif; font-size: 24px; color: #fff;margin-top:10px">"+ Sending Fee : 5,000 KRW included"</span>
+			<span class="currencies_method_txt" style="font-family:'Quicksand', sans-serif; font-size: 15px; color: #fff;margin-top:10px">"+ Sending Fee : 5,000 KRW included"</span>
 		</div>
 		
 		
