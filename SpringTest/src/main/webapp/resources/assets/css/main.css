@@ -2526,12 +2526,12 @@ input, select, textarea {
 		#footer .terms {
 			top : 30px;
 			right: 60px;
+			margin-right: 200px;
 			position: absolute;
 			display: block;
-			z-index: 1;
 		}
 		
-		#footer .termsSelect {
+		.termsSelect {
 			text-align: center;
 			font-size: 25px;
 		}

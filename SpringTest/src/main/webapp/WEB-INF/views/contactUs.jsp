@@ -72,7 +72,7 @@
 		</style>		
 		<style>
 		#map_ma {width:100%; height:600px; clear:both; border:solid 1px red;}
-		#map_ma2 {width:100%; height:600px; clear:both;}
+		#map_ma2 {width:100%; height:450px; clear:both;}
 		</style>
 		
 			<script type="text/javascript">
@@ -130,60 +130,21 @@
 
                 <div class="container">
                     <article id="main" class="special">
-                        <header>
-                            <h2 class="fontfont">Contact Us</h2>
+                    	<center>
+							<div>
+								<img src="resources/images/hompg_contactus.png" wdith="100%" >
+							</div>
 
-                        </header>
-				<div>
-					<table class="contattable">
-						<tr>
-							<td class="jb-th-1" rowspan="4">
-								<font size="12" color="white" algin="center" class="fontfont">Contact&nbspUs
-								</font>
-							</td>
-							<td class="trcolors" ><b>Opening Hours(Everyday)</b><br>
-												  <b>Branch : 09:30 ~ 18:30</b><br>
-												  <b>Call Center : 19:30 ~ 18:00</b>
-							</td>							
-						</tr>
-						<tr>
-
-						</tr>
-						<tr class="trcolors">
-							<td><b>Customer Service Center</b><br>
-								<b>+82-2-6927-3477</b>
-							</td>
-						</tr>
-						<tr class="trcolors">
-							<td><b>Email US</b><br>
-								<b>dongki@jpremit.com</b>
-								<br><br>
-								<b><a onclick="showPopup();" />inquiry</a></b> ← Click if you have any questions
-								
-							</td>
-						</tr>					
-					</table>
-					
-				</div>                        
-                        <section>
-
-									<center>
-									<font size="20" class="foonttt"><b>Remittance Branch Address</b></font><br><br><br>
-									</center>
-						</section>			
-									<center>
-						<section>
-<!--  									<div id="map_ma"></div>-->
-<div id="map_ma2">
-                            <img src="resources/images/jrfkoreamap.jpg" wdith="100%" >
-</div>
-									        <b>Head Office & Customer Service Center</b><br>
-									        14-12, Teheran-ro 78-gil, Gangnam-gu, Seoul, Republic of Korea
-									</center>                
-                        </section>
+							<section>
+							<!--<div id="map_ma"></div>-->
+								<div id="map_ma2">
+				        	    	<img src="resources/images/jrfkoreamap.jpg" wdith="100%" >
+								</div>
+						        <b>Head Office & Customer Service Center</b><br>
+						        14-12, Teheran-ro 78-gil, Gangnam-gu, Seoul, Republic of Korea
+							</section>
+						</center>
                     </article>
-                    
-
             	</div>                   
             </div>
 

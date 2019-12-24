@@ -27,17 +27,17 @@
                 <section class="contact">
                     <header>
                         <h3>Customer Service Center</h3>
-                        <h2>+82-2-6927-3477</h2>
+                        <h2  style="font-size: 40;">+82-2-6927-3477</h2>
                     </header>
-                    <div class="terms"><a href="./terms.do">Terms and Conditions</a></div>
-                    <p>Weekdays : 09:00 - 19:00</p>
-                    <p>Weekends / Holidays : 10:00 - 19:00</p>
-                    <p>
+                    <div class="terms"><a href="./terms.do"  style="font-size: 18;">Terms and Conditions</a></div>
+                    <p  style="font-size: 18;">Weekdays : 09:00 - 19:00</p>
+                    <p  style="font-size: 18;">Weekends / Holidays : 10:00 - 19:00</p>
+                    <p  style="font-size: 18;">
                         <span style="margin-right: 10px"><strong>Location</strong> . Dongyoung bldg. 3F, 14-12, Teheran-ro 78 gil, Gangnam-gu, Seoul, Republic of Korea (06194)<br/></span>
                         <span style="margin-right: 10px"><strong>Fax</strong> . +82-2-6927-3488</span>
                         <span><strong>Email</strong> . info@jpremit.com</span>
                     </p>
-                    <p>Share:</p>
+                    <p  style="font-size: 18;">Share:</p>
                                         <a id="kakao-link-btn" href="javascript:;">
 						<img src="resources/images/kakaotalk.png"/>
 						</a>
