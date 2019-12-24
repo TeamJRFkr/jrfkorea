@@ -132,13 +132,13 @@
                     <article id="main" class="special">
                     	<center>
 							<div>
-								<img src="resources/images/hompg_contactus.png" width="100%" >
+								<img src="resources/images/hompg_contactus.png" >
 							</div>
 
 							<section>
 							<!--<div id="map_ma"></div>-->
 								<div id="map_ma2">
-				        	    	<img src="resources/images/jrfkoreamap.jpg" width="100%" >
+				        	    	<img src="resources/images/jrfkoreamap.jpg" >
 								</div>
 						        <b>Head Office & Customer Service Center</b><br>
 						        14-12, Teheran-ro 78-gil, Gangnam-gu, Seoul, Republic of Korea
