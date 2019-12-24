@@ -58,9 +58,6 @@
 				background-color: #DB0000;
 				text-align: center;
 			}
-			.trcolors{
-				background-color: #D5D5D5;		
-			}
 
 		</style>		
 		<style>
@@ -130,10 +127,6 @@
 				<div>
 					<table class="contattable">
 						<tr>
-							<td class="jb-th-1" rowspan="4">
-								<font size="12" color="white" algin="center">Contact&nbspUs
-								</font>
-							</td>
 							<td class="trcolors" ><b>Opening Hours(Everyday)</b><br>
 												  <b>Branch : 09:30 ~ 18:30</b><br>
 												  <b>Call Center : 19:30 ~ 18:00</b>
@@ -157,13 +150,7 @@
 						</tr>					
 					</table>
 					
-				</div>                        
-                        <section>
-
-									<center>
-									<font size="20"><b>Remittance Branch Address</b></font><br><br><br>
-									</center>
-						</section>			
+				</div>	
 									<center>
 						<section>
 <!--  									<div id="map_ma"></div>-->
