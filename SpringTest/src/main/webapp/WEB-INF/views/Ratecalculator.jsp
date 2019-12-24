@@ -311,11 +311,28 @@
 			<span class="currencies_method_txt" style="font-family:'Alatsi', sans-serif; font-size: 24px; color: #fff;margin-top:10px">"+ Sending Fee : 5,000 KRW included"</span>
 		</div>
 		
+		
 	</div>
 
 		
 	
 <script>
+var gType = ""; var gCountry = ""; //화폐단위 및 나라
+
+chageLangSelect("JPY", "JAPAN"); //시작 초기값
+
+/**
+ * 문자열이 빈 문자열인지 체크하여 결과값을 리턴한다.
+ * @param str       : 체크할 문자열
+ */
+function isEmpty(str){
+     
+    if(typeof str == "undefined" || str == null || str == "")
+        return true;
+    else
+        return false ;
+}
+
 function chageMethodSelect(type){
 	var select = document.getElementById("method_"+type);
 	var value = select.value;
@@ -380,7 +397,9 @@ function removeComma(n) {  // 콤마제거
     return txtNumber.replace(/(,)/g, "");
 }
 
-function chageLangSelect(type, country){  //계산기 스크립트 
+function chageLangSelect(type, country){  //계산기 스크립트
+	 gType = type;
+	 gCountry = country;
 	 var select = document.getElementById("currencies_value_"+type);
 	 var strSplit = select.value.split('/');
 	 var option_value = strSplit[0];
@@ -413,7 +432,11 @@ function chageLangSelect(type, country){  //계산기 스크립트
 		 
 	 }
 }
-function chageLangSelect02(type, country){  //계산기 스크립트 
+function chageLangSelect02(){  //계산기 스크립트, 바로 계산
+	 type = gType;
+	 country = gCountry;
+	 if (isEmpty(type) || isEmpty(country))
+		 return;
 	 var select = document.getElementById("currencies_value_"+type);
 	 var strSplit = select.value.split('/');
 	 var option_value = strSplit[0];
