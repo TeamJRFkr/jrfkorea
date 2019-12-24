@@ -29,7 +29,7 @@
                         <h3>Customer Service Center</h3>
                         <h2  style="font-size: 40;">+82-2-6927-3477</h2>
                     </header>
-                    <div class="terms"><a href="./terms.do"  style="font-size: 18;">Terms and Conditions</a></div>
+                    <div class="terms"><a href="./terms.do"  style="font-size: 18;">Terms and Conditions</a><a href="./dispute.do"  style="font-size: 18; margin-left: 20px;">Dispute resolution</a></div>
                     <p  style="font-size: 18;">Weekdays : 09:00 - 19:00</p>
                     <p  style="font-size: 18;">Weekends / Holidays : 10:00 - 19:00</p>
                     <p  style="font-size: 18;">
