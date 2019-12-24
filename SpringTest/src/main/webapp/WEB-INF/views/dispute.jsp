@@ -40,7 +40,7 @@
                             	<div class="termsSelect">
                                 <b><a href="./terms.do" style="margin-right: 50px;">User Agreement</a><a href="./policy.do" style="margin-right: 50px;">Privacy Policy</a>
                                 <a href="./mandatory.do" style="margin-right: 50px;">Mandatory Consent</a><a href="./selection.do" style="margin-right: 50px;">Selection Consent</a>
-                                <a href="./dispute.do" style="pointer-events: none; margin-right: 50px; color: #f04141;">Dispute resolution</a>
+                                <a href="./dispute.do" style="pointer-events: none; color: #f04141;">Dispute resolution</a>
                                 </b>
                                 </div>
                             </header>
