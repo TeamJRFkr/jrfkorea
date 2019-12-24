@@ -42,8 +42,10 @@
                                 <a href="./mandatory.do" style="margin-right: 50px;">Mandatory Consent</a><a href="./selection.do">Selection Consent</a></b>
                                 </div>
                             </header>
-                            <p>
-The ‘Terms and Conditions’ for usage of Japan Remit Finance comes in effect since Oct --, 2018. <br> <br>
+                            <p style="margin-top: 3em;">
+<p style="text-align: center; font-size: 30px;"><b>소액해외송금서비스 이용 약관<br>
+Overseas Remittance Service User Agreement<br></b>
+</p> <br> <br>
 
 제1조(적용범위) 이 약관은 재팬 리미트 파이낸스㈜ 회사(이하 ‘회사’라 합니다.)와 ‘회사가 제공하는「소액해외송금서비스」(이하 ‘서비스’라 합니다.)를 이용하는 고객’(이하 ‘고객’이라 합니다.) 사이에 적용됩니다.<br>
 Article 1 (Scope of Application) This ‘Terms and Conditions’ is applied to between Japan Remit Finance Co., Ltd.(hereafter referred to as the ‘Company’ and the Customer using Small Amount Overseas Remittance Service(hereinafter referred to as the ‘Service’).<br><br>

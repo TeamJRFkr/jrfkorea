@@ -37,12 +37,15 @@
                         </header>
                         <section>
                             <header>
-                            	<div class="">
+                            	<div class="termsSelect">
                                 <b><a href="./terms.do" style="margin-right: 50px;">User Agreement</a><a href="./policy.do" style="margin-right: 50px;">Privacy Policy</a>
                                 <a href="./mandatory.do" style="margin-right: 50px;">Mandatory Consent</a><a href="./selection.do" style="pointer-events: none; color: #f04141;">Selection Consent</a></b>
                                 </div>
                             </header>
-                            <p>
+                            <p style="margin-top: 3em;">
+<p style="text-align: center; font-size: 30px;"><b>개인정보 선택적 수집, 이용 및 제공 동의서<br>
+Consent form to collect, use and provide optional personal information<br></b>
+</p> <br> <br>
 본 동의서는 계약에 필수적이지 않으며 동의에 거부할 수 있습니다. 다만, 동의하지 않을 경우에는 편의제공(사은품, 할인쿠폰 등), 신상품(서비스)소개, 사은행사안내 등 이용목적에 따른 혜택의 제한이 있을 수 있습니다. 그 밖의 해외송금거래와 관련된 불이익은 없습니다.<br>
 The consent forms are not mandatory for the agreement and can be refused. However, refusing consent may limit services (discount coupons, gifts), new product (service) introduction, promotional events provided by the company. There is no limitation regarding international remittance.<br><br>
 개인정보 선택적 수집, 이용에 관한 사항<br>

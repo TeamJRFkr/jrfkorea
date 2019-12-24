@@ -152,7 +152,7 @@
                             <img src="resources/images/core-val-01.png" alt="" />
                         </div>
                         <header>
-                            <h3 style="font-family: 'Alatsi', sans-serif">EASY AND CONVENIENT</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif; margin-top: 20px;">EASY AND CONVENIENT</h3>
                         </header>
                         <p style="font-family: 'Quicksand', sans-serif">
                             It is very quick for registration. You can register on our website as an individual. All you need is your ID copy, such as passport or Residence & My number card.
@@ -163,7 +163,7 @@
                             <img src="resources/images/core-val-02.png" alt="" />
                         </div>
                         <header>
-                            <h3 style="font-family: 'Alatsi', sans-serif">LOWEST-COST</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif; margin-top: 20px;">LOWEST-COST</h3>
                         </header>
                         <p style="font-family: 'Quicksand', sans-serif">
                             We make it possible to remit your money to your country at the lowest cost.
@@ -174,7 +174,7 @@
                             <img src="resources/images/core-val-03.png" alt="" />
                         </div>
                         <header>
-                            <h3 style="font-family: 'Alatsi', sans-serif">VERY QUICK!</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif; margin-top: 20px;">VERY QUICK!</h3>
                         </header>
                         <p style="font-family: 'Quicksand', sans-serif">
                             Your money will be transferred quickly.* Choose Bank account pay or Cash payout at the counter, in advance. *It depends on destination. Please call us for more information. 03-5733-4337

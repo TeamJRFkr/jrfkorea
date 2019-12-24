@@ -37,12 +37,15 @@
                         </header>
                         <section>
                             <header>
-                            	<div class="">
+                            	<div class="termsSelect">
                                 <b><a href="./terms.do" style="margin-right: 50px;">User Agreement</a><a href="./policy.do" style="margin-right: 50px;">Privacy Policy</a>
                                 <a href="./mandatory.do" style="pointer-events: none; margin-right: 50px; color: #f04141;">Mandatory Consent</a><a href="./selection.do">Selection Consent</a></b>
                                 </div>
                             </header>
-                            <p>
+                            <p style="margin-top: 3em;">
+<p style="text-align: center; font-size: 30px;"><b>개인정보 필수적 수집.이용 및 제공 동의서<br>
+Mandatory Consent form to collect, use and provide personal information<br></b>
+</p> <br> <br>
 아래의 사항은 당사의 해외송금을 위하여 필수적으로 동의하셔야 할 필수적 동의서로서 동의서에 동의하시면 해외송금거래가 가능합니다.<br>
 The following conditions require mandatory consent for conducting international remittance transaction service.<br><br>
 

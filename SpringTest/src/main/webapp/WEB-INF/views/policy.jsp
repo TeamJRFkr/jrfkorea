@@ -37,12 +37,15 @@
                         </header>
                         <section>
                             <header>
-                            	<div class="">
+                            	<div class="termsSelect">
                                 <b><a href="./terms.do" style="margin-right: 50px;">User Agreement</a><a href="./policy.do" style="pointer-events: none; margin-right: 50px; color: #f04141;">Privacy Policy</a>
                                 <a href="./mandatory.do" style="margin-right: 50px;">Mandatory Consent</a><a href="./selection.do">Selection Consent</a></b>
                                 </div>
                             </header>
-                            <p>
+                            <p style="margin-top: 3em;">
+<p style="text-align: center; font-size: 30px;"><b>개인정보 취급방침<br>
+Privacy Policy<br></b>
+</p> <br> <br>
 저희 재팬리미트파이낸스㈜는 개인정보보호법 제30조, 정보통신망 이용촉진 및 정보보호에 관한 법률 제27조의2에 따라 고객의 개인정보보호 및 권익을 보호하고 개인정보와 관련한 고객의 고충을 원활하게 처리 할 수 있도록 다음과 같은 처리방침을 두고 있습니다.<br>
 We, Japan Remit Finance Co.,Ltd. according to article 30 of Personal Information Protection Act, article 27-2 of the Promotion of Information and communication network utilization and Information Protection Act, protect the personal information, rights and interests of the customers. We have the following policies.<br><br>
 제1조(개인정보의 처리 목적)<br>
