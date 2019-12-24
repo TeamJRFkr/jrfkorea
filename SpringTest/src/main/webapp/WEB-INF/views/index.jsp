@@ -20,7 +20,6 @@
     <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick-theme.css" />
     <link rel="stylesheet" href="resources/assets/css/noscript.css" />
 	<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">		    
     <style type="text/css">
         .slider {
@@ -65,14 +64,32 @@
 		  float: right;
 		  width: 50%;
 		}
-		#header > h1{
+		#left_header > h1 {
         	font-family: 'Alatsi', sans-serif;
         }
         
-        #header > p{
+        #left_header > p {
         	font-family: 'Quicksand', sans-serif;
-        	font-size : 50px;
         }  
+        #banner > h2, b {
+        	font-family: 'Alatsi', sans-serif;
+        }
+        #banner > p {
+        	font-family: 'Quicksand', sans-serif;
+        }
+        #intro_header > h2 {
+        	font-family: 'Alatsi', sans-serif;
+        }
+        #intro_header > p {
+        	font-family: 'Quicksand', sans-serif;
+        }
+        .row > h3 {
+        	font-family: 'Alatsi', sans-serif;
+        }
+        .row > p {
+        	font-family: 'Quicksand', sans-serif;
+        }
+        
     </style>
 </head>
 <body class="homepage is-preload">
@@ -83,7 +100,7 @@
 
             <!-- Inner -->
             <div class="inner" id= "left_i">
-                <header>
+                <header id="left_header">
                     <p>Send Your Money Around</p>
                     <p>The Globe With JRF</p>
                     <h1>JRF Korea</h1>
@@ -93,7 +110,7 @@
                 </header>
             </div>
             <div class="inner" id= "right-box" style="right: 5%;">
-                	<iframe src="Ratecalculator.do" frameborder="0" class="iframe" style="width:70%; height:50%;">
+                	<iframe src="Ratecalculator.do" frameborder="0" class="iframe" style="width:80%; height:60%;">
                 	</iframe>         
             </div>                
 
@@ -106,7 +123,7 @@
         <!-- Banner -->
         <section id="banner" style="padding-left: 150px; padding-right: 150px;">
             <header>
-                <h2>Universal <b style="color: red;">JRF</b>.</h2>
+                <h2 style="font-family: 'Quicksand', sans-serif">Universal <b style="color: red;">JRF</b>.</h2>
                 <p>
                     More than 20 Countries! All Bank names! All cash payout names!
                 </p>
@@ -114,8 +131,8 @@
 
             <section class="bannerimg slider image featured">
                 <div><img src="resources/images/banner15.jpg" /></div>
-                <div><img src="resources/images/banner15.jpg" /></div>
-                <div><img src="resources/images/banner15.jpg" /></div>
+                <div><img src="resources/images/banner07.jpg" /></div>
+                <div><img src="resources/images/banner21.jpg" /></div>
             </section>
 
         </section>
@@ -126,7 +143,7 @@
         <div id="intro" class="wrapper style2">
 
             <section class="container special">
-                <header>
+                <header id="intro_header">
                     <h2 style="margin-bottom: 50px;">Why Choose JRF?</h2>
                 </header>
                 <div class="row">
@@ -135,9 +152,9 @@
                             <img src="resources/images/core-val-01.png" alt="" />
                         </div>
                         <header>
-                            <h3>EASY AND CONVENIENT</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif">EASY AND CONVENIENT</h3>
                         </header>
-                        <p>
+                        <p style="font-family: 'Quicksand', sans-serif">
                             It is very quick for registration. You can register on our website as an individual. All you need is your ID copy, such as passport or Residence & My number card.
                         </p>
                     </article>
@@ -146,9 +163,9 @@
                             <img src="resources/images/core-val-02.png" alt="" />
                         </div>
                         <header>
-                            <h3>LOWEST-COST</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif">LOWEST-COST</h3>
                         </header>
-                        <p>
+                        <p style="font-family: 'Quicksand', sans-serif">
                             We make it possible to remit your money to your country at the lowest cost.
                         </p>
                     </article>
@@ -157,9 +174,9 @@
                             <img src="resources/images/core-val-03.png" alt="" />
                         </div>
                         <header>
-                            <h3>VERY QUICK!</h3>
+                            <h3 style="font-family: 'Alatsi', sans-serif">VERY QUICK!</h3>
                         </header>
-                        <p>
+                        <p style="font-family: 'Quicksand', sans-serif">
                             Your money will be transferred quickly.* Choose Bank account pay or Cash payout at the counter, in advance. *It depends on destination. Please call us for more information. 03-5733-4337
                         </p>
                     </article>

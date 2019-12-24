@@ -17,7 +17,6 @@ font-family: 'Alatsi', sans-serif;
 				font-family: 'Alatsi', sans-serif;
 				position: absolute;
 				font-size: 19px;
-				color: #a97228;
 				top: 9px;
 				left: 12px;
 				letter-spacing: 1px;
@@ -47,7 +46,6 @@ font-family: 'Alatsi', sans-serif;
 				font-family: 'Alatsi', sans-serif;
 				position: absolute;
 				font-size: 19px;
-				color: #a97228;
 				top: 11px;
 				left: 12px;
 				letter-spacing: 1px;
@@ -130,10 +128,10 @@ font-family: 'Alatsi', sans-serif;
 	
 	</script>		
 	</head>
-	<body>
+	<body bgcolor="#FFFFFF">
 	<table>
 		<tr>
-			<td colspan ="3"><font color="#a97228" class="labels"><b>Receive</b></font></td>
+			<td colspan ="3"><font  class="labels"><b>Receive</b></font></td>
 		</tr>
 		<tr>
 		<td>
@@ -153,7 +151,7 @@ font-family: 'Alatsi', sans-serif;
 		</td>	
 		</tr>
 		<tr>
-			<td colspan = "3"><font color="#a97228" class="labels"><b>Receiving Method</b></font></td>
+			<td colspan = "3"><font class="labels"><b>Receiving Method</b></font></td>
 		</tr>
 		<tr>
 			<td colspan = "3">
@@ -167,7 +165,7 @@ font-family: 'Alatsi', sans-serif;
 			</td>		
 		</tr>
 		<tr>
-			<td colspan = "3"><font color="#a97228" class="labels"><b>Send</b></font></td>
+			<td colspan = "3"><font  class="labels"><b>Send</b></font></td>
 		</tr>
 		<tr>
 			<td colspan = "3">

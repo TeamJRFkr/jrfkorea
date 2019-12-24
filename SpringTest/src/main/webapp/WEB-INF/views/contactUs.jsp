@@ -19,7 +19,8 @@
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="resources/assets/slick/slick-theme.css"/>
 		<link rel="stylesheet" href="resources/assets/css/noscript.css" />
-		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">		
+		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">			
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBHk9HHsL64-VGZ313wH4Xu2jfsEUQ2Pbg" ></script>
 		<script>
@@ -46,7 +47,7 @@
 				'display:';
 				width: 100%;
 				height: 100px;
-				font-family: 'Alatsi', sans-serif;			
+				font-family: 'Quicksand', sans-serif;		
 			}
 			td {
 				padding: 40px;
@@ -57,6 +58,15 @@
 				width: 300px;
 				background-color: #DB0000;
 				text-align: center;
+			}
+			.trcolors{
+				background-color: #D5D5D5;		
+			}
+			.fontfont{
+			font-family: 'Alatsi', sans-serif;
+			}
+			.foonttt{
+			font-family: 'Quicksand', sans-serif;	
 			}
 
 		</style>		
@@ -121,12 +131,16 @@
                 <div class="container">
                     <article id="main" class="special">
                         <header>
-                            <h2>Contact Us</h2>
+                            <h2 class="fontfont">Contact Us</h2>
 
                         </header>
 				<div>
 					<table class="contattable">
 						<tr>
+							<td class="jb-th-1" rowspan="4">
+								<font size="12" color="white" algin="center" class="fontfont">Contact&nbspUs
+								</font>
+							</td>
 							<td class="trcolors" ><b>Opening Hours(Everyday)</b><br>
 												  <b>Branch : 09:30 ~ 18:30</b><br>
 												  <b>Call Center : 19:30 ~ 18:00</b>
@@ -150,7 +164,13 @@
 						</tr>					
 					</table>
 					
-				</div>	
+				</div>                        
+                        <section>
+
+									<center>
+									<font size="20" class="foonttt"><b>Remittance Branch Address</b></font><br><br><br>
+									</center>
+						</section>			
 									<center>
 						<section>
 <!--  									<div id="map_ma"></div>-->

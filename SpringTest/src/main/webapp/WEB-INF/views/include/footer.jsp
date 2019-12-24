@@ -6,6 +6,17 @@
 <!-- Footer -->
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v5.0"></script>
+<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet"> 
+<style>
+	.contact header{
+		font-family: 'Alatsi', sans-serif;
+	}
+	.contact p{
+		font-family: 'Quicksand', sans-serif;
+	}
+</style>
+
 <div id="footer">
 
     <div class="container">
@@ -16,17 +27,17 @@
                 <section class="contact">
                     <header>
                         <h3>Customer Service Center</h3>
-                        <h2 style="font-size: 40;">+82-2-6927-3477</h2>																					
+                        <h2>+82-2-6927-3477</h2>
                     </header>
-                    <div class="terms"><a href="./terms.do" style="font-size: 18;">Terms and Conditions</a></div>
-                    <p style="font-size: 18;">Weekdays : 09:00 - 19:00</p>
-                    <p style="font-size: 18;">Weekends / Holidays : 10:00 - 19:00</p>
-                    <p style="font-size: 18;">
-                        <span style="margin-right: 10px"><strong>Location</strong> . Dongyoung bldg. 3F, 14-12, Teheran-ro 78 gil, Gangnam-gu, Seoul, Republic of Korea (06194)</span>
+                    <div class="terms"><a href="./terms.do">Terms and Conditions</a></div>
+                    <p>Weekdays : 09:00 - 19:00</p>
+                    <p>Weekends / Holidays : 10:00 - 19:00</p>
+                    <p>
+                        <span style="margin-right: 10px"><strong>Location</strong> . Dongyoung bldg. 3F, 14-12, Teheran-ro 78 gil, Gangnam-gu, Seoul, Republic of Korea (06194)<br/></span>
                         <span style="margin-right: 10px"><strong>Fax</strong> . +82-2-6927-3488</span>
                         <span><strong>Email</strong> . info@jpremit.com</span>
                     </p>
-                    <p style="font-size: 18;">Share:</p>
+                    <p>Share:</p>
                                         <a id="kakao-link-btn" href="javascript:;">
 						<img src="resources/images/kakaotalk.png"/>
 						</a>
@@ -37,6 +48,8 @@
 						<a href="javascript:toSNS('line','JRFKOREA','http://jrfkorea.coj.kr/')" title="라인으로 가져가기"><img src="resources/images/LINE.png"></a>																					
 						<a href="javascript:toSNS('google','JRFKOREA','http://jrfkorea.coj.kr/')" title="구글플러스로 가져가기"><img src="resources/images/google.png"></a>                    
                 </section>
+
+
 
             </div>
 

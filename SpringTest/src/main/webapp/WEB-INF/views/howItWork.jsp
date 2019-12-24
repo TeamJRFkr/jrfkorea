@@ -55,11 +55,6 @@
             opacity: 1;
         }
         #main{
-        font-family: 'Paytone One', sans-serif;
-		font-family: 'Staatliches', cursive;
-		font-family: 'Yanone Kaffeesatz', sans-serif;
-		font-family: 'Fascinate Inline', cursive;
-		font-family: 'Adamina', serif;
         }
         
         #main > h2{

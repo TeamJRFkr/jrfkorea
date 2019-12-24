@@ -99,23 +99,23 @@
                 <div class="reel">
 
                     <article>
-                        <a href="#" class="image featured"><img src="resources/images/pic01.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="resources/images/21_large.jpg" alt="" /></a>
                     </article>
 
                     <article>
-                        <a href="#" class="image featured"><img src="resources/images/pic02.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="resources/images/14_large.jpg" alt="" /></a>
                     </article>
 
                     <article>
-                        <a href="#" class="image featured"><img src="resources/images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="resources/images/19_small.jpg" alt="" /></a>
                     </article>
 
                     <article>
-                        <a href="#" class="image featured"><img src="resources/images/pic04.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="resources/images/17_small.jpg" alt="" /></a>
                     </article>
 
                     <article>
-                        <a href="#" class="image featured"><img src="resources/images/pic05.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="resources/images/15_large.jpg" alt="" /></a>
                     </article>
 
                 </div>
