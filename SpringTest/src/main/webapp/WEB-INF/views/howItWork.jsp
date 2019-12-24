@@ -57,11 +57,11 @@
         #main{
         }
         
-        #main > h2{
+        .ffonnt01{
         	font-family: 'Alatsi', sans-serif;
         }
         
-        #main > p{
+        .ffonnt02{
         	font-family: 'Quicksand', sans-serif;
         }
 		</style>
@@ -81,8 +81,8 @@
                 <div class="container">
                     <article id="main" class="special">
                         <header>
-                            <h2>How It Work</h2>
-                            <p>
+                            <h2 class="ffonnt01">How It Work</h2>
+                            <p class="ffonnt02">
                                 If you want to send money overseas faster and easier, JRF!
                             </p>
                         </header>
@@ -90,10 +90,10 @@
 							<div class="spotlight">
 								<div class="content">
 									<header class="major">
-										<h2>1. OPEN ACCOUNT</h2>
+										<h2 class="ffonnt01">1. OPEN ACCOUNT</h2>
 									</header>
-									<p>Open an account and become a member of Japan Remittance Finance</p>
-									<p>Simply register your regular deposit account (with deposit and withdrawal available).</p>
+									<p class="ffonnt02">Open an account and become a member of Japan Remittance Finance</p>
+									<p class="ffonnt02">Simply register your regular deposit account (with deposit and withdrawal available).</p>
 								</div>
 								<span class="blockimage"><img src="resources/images/openAcc.png" alt="" /></span>
 							</div>
@@ -102,13 +102,13 @@
 							<div class="spotlight">
 								<div class="content">
 									<header class="major">
-										<h2>2. CREATE REMITTANCE REQUEST</h2>
+										<h2 class="ffonnt01">2. CREATE REMITTANCE REQUEST</h2>
 									</header>
-									<p>Documents Required</p>
-									<p>Please visit the branch and submit the required documents.</p>
-									<p>1) Residence Card</p>
-									<p>2) Driving Lic. or Passport 1st and Address pages</p>
-									<p>3) Alien Registration Card</p>
+									<p class="ffonnt02">Documents Required</p>
+									<p class="ffonnt02">Please visit the branch and submit the required documents.</p>
+									<p class="ffonnt02">1) Residence Card</p>
+									<p class="ffonnt02">2) Driving Lic. or Passport 1st and Address pages</p>
+									<p class="ffonnt02">3) Alien Registration Card</p>
 								</div>
 								<span class="blockimage"><img src="resources/images/createReq.png" alt="" /></span>
 							</div>
@@ -117,9 +117,9 @@
 							<div class="spotlight">
 								<div class="content">
 									<header class="major">
-										<h2>3. DEPOSIT THE AMOUNT</h2>
+										<h2 class="ffonnt01">3. DEPOSIT THE AMOUNT</h2>
 									</header>
-									<p>Now you just need to deposit amount by JRF office counter or deposit in JRF's different bank accounts</p>
+									<p class="ffonnt02">Now you just need to deposit amount by JRF office counter or deposit in JRF's different bank accounts</p>
 								</div>
 								<span class="blockimage"><img src="resources/images/depositAmo.png" alt="" /></span>
 							</div>
@@ -133,7 +133,7 @@
         <div style="padding-left: 150px; padding-right: 150px; height: 700px;">
             <header style="text-align: center;">
             	<br><br><br>
-                <h2>Partners</h2>
+                <h2 class="ffonnt01">Partners</h2>
             </header>
 
             <div class="partnerimg slider image featured" style="height: 100px;">

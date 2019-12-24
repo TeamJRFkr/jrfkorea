@@ -23,7 +23,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">		
 
 		<style>
-      #main {
+      .fontone01 {
 				font-family: 'Alatsi', sans-serif;
       }
       .fonttow{
@@ -47,14 +47,14 @@
                 <div class="container">
                     <article id="main" class="special">
                         <header>
-                            <h2>About Us</h2>
+                            <h2 class="fontone01">About Us</h2>
                             <p class="fonttow">
                                 Send Your Money Around The Globe With JRF
                             </p>
                         </header>
                         <section>
                             <header>
-                                <h3>What We Do?</h3>
+                                <h3 class="fontone01">What We Do?</h3>
                             </header>
                             <p class="fonttow">
                                 JRF is registered remittance company in Japan.<br />
@@ -67,7 +67,7 @@
                         </section>
                         <section>
                             <header>
-                                <h3>CEO Message</h3>
+                                <h3 class="fontone01">CEO Message</h3>
                             </header>
                             <p class="fonttow">
                                 Dear Valued Customers,<br />

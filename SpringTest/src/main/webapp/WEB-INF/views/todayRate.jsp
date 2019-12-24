@@ -70,7 +70,7 @@
 	                            <tbody>
 	                            	<c:forEach items="${list}" var="list">
 		                            	<tr>
-		                            		<td><img src="resources/images/${list.receiveCountry}_flag.png">${list.receiveCountry}</td>
+		                            		<td><img src="resources/images/${list.receiveCountry}_flag.png" width="18" height="18">&nbsp;&nbsp;&nbsp;${list.receiveCountry}</td>
 		                            		<td>${list.receiveCType}</td>
 		                            		<td><fmt:formatNumber value="${list.customer_rate}" pattern="###,###,###.#######"/></td>
 		                            	</tr>
