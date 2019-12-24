@@ -27,6 +27,8 @@
 		  FROM 
 		
 		  	[JRf_Korea_Uat].[dbo].[agentCurrencyRate]
+		  	
+		 WHERE [agentid] != 11000003
 	</select>	
 	
 	<select id="getLastUpdateDate" resultType="String">
