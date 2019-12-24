@@ -51,7 +51,7 @@ We, Japan Remit Finance Co.,Ltd. according to article 30 of Personal Information
 제1조(개인정보의 처리 목적)<br>
 Article 1 (Objective of Personal Information collection)<br>
 당사는 개인정보를 다음 각 호의 목적을 위해 처리합니다. 처리한 개인정보는 다음의 목적 외의 용도로는 사용되지 않으며 이용 목적이 변경될 시에는 사전동의를 구할 예정입니다.<br> 
-Japan Remit Finance collects personal information for the following purposes. In case the personal information is to be used for purposes other than the ones mentioned below, GmoneyTrans will seek prior consent from the customers.<br>
+Japan Remit Finance collects personal information for the following purposes. In case the personal information is to be used for purposes other than the ones mentioned below, Japan Remit Finance will seek prior consent from the customers.<br>
 1. 회원 가입 및 관리<br>
 Membership registration and management<br>
 회원가입, 회원제 서비스 이용, 제한적 본인 확인제에 따른 본인확인, 개인식별, 회원자격 유지.관리, 부정이용방지, 비인가 사용방지, 가입의사 확인 등의 목적으로 개인정보를 처리합니다.<br>

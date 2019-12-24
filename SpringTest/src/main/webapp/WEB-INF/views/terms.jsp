@@ -151,7 +151,7 @@ Article 15 (Confidentiality Obligation) ① Except as provided in applicable law
 
 Article 16 (Issuance and Explanation of Terms) ① The company shall notify the terms and conditions through its website and specify the terms and conditions when making a contract with the customer for the small amount overseas remittance business.<br>
  ② The company shall give the Customer a copy of the terms and conditions in the form of electronic documents (including transmission using e-mail), fax, mail or direct delivery to the Customer.<br>
- ③ When the Customer asks the company to explain the contents of the terms and conditions, GME must explain those to the Customer in one of the following ways: 1. Explain important contents directly to the Customer 2. Describe the important contents by electronic means recognized by the Customer.<br> <br>
+ ③ When the Customer asks the company to explain the contents of the terms and conditions, Japan Remit Finance must explain those to the Customer in one of the following ways: 1. Explain important contents directly to the Customer 2. Describe the important contents by electronic means recognized by the Customer.<br> <br>
 
 
 제17조(준용규정) 이 약관에서 정하지 않은 사항에 대하여는 외국환거래법규 등 관련법규에 따릅니다.<br>
