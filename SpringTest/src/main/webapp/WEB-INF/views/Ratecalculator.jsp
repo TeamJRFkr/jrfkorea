@@ -264,7 +264,7 @@
                 	</div>
 				</div>
 				
-				<input type="text"  id="countryvalue" value="" style="float:left; width: 100%;" ></input>
+				<input type="text" onfocus='this.blur();'  id="countryvalue" value="" style="float:left; width: 100%;" ></input>
 				<!-- <input type="text"  id="countryvalue" class="labels" style ="border: 1px solid #FFFFFF; height: 100%;" value="" ></input>  -->
 			</div>
 		</div>
