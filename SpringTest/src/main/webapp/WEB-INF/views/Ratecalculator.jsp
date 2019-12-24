@@ -307,7 +307,9 @@
 		</div>
 		<!--// money-infor-inner -->
 		
-		<span class="currencies_method_txt" style="font-family:'Alatsi', sans-serif; font-size: 24px; color: #fff;margin-top:10px">"+ Sending Fee : 5,000 KRW included"</span>
+		<div style="margin-top:25px">
+			<span class="currencies_method_txt" style="font-family:'Alatsi', sans-serif; font-size: 24px; color: #fff;margin-top:10px">"+ Sending Fee : 5,000 KRW included"</span>
+		</div>
 		
 	</div>
 
