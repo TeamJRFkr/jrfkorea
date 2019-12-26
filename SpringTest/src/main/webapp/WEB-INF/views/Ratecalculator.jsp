@@ -166,7 +166,7 @@
 			}
 			.currencies_popup{
 				position: absolute;
-			    top: 23px;
+			    top: 35px;
 			    width: 140px;
 			    height: 180px;
 			    box-sizing: border-box;
@@ -245,6 +245,7 @@
 	                    	</span>
                     	</a>
                 	</div>
+                	
                 	<div class="currencies_popup" style="display: none;">
                 		<p class="currencies_title" style="font-size: 12px; color: #c1c1c1; margin: 5px;">Receiving Country</p>
                 		
