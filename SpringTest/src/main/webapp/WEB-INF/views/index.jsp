@@ -31,9 +31,9 @@
             margin: 0px 20px;
         }
 
-            .slick-slide img {
-                width: 100%;
-            }
+        .slick-slide img {
+            width: 100%;
+        }
 
         .slick-prev:before,
         .slick-next:before {
@@ -56,13 +56,13 @@
         
 		#left_i {
 			top: 20%;
-		  float: left;
-		  width: 50%;
+		  	float: left;
+		  	width: 50%;
 		}
 		#right-box {
 			top: 10%;
-		  float: right;
-		  width: 50%;
+		  	float: right;
+		  	width: 50%;
 		}
 		#left_header > h1 {
         	font-family: 'Alatsi', sans-serif;
@@ -92,14 +92,14 @@
         
     </style>
 </head>
+
 <body class="homepage is-preload">
     <div id="page-wrapper">
 
         <!-- Header -->
         <div id="header">
-
             <!-- Inner -->
-            <div class="inner" id= "left_i" style="width:50%">
+            <div class="inner" id= "left_i">
                 <header id="left_header">
                     <p style="font-family: 'Quicksand', sans-serif">Send Your Money Around</p>
                     <p style="font-family: 'Quicksand', sans-serif">The Globe With JRF</p>
@@ -109,19 +109,16 @@
                     <p style="font-family: 'Quicksand', sans-serif">No matter how far you are.</p>
                 </header>
             </div>
-            <div class="inner" id= "right-box" style="width:50%; margin-top: -70px;">
+            
+            <div class="inner" id="right-box" style="width:50%; margin-top: -70px;">
                 	<iframe src="Ratecalculator.do" frameborder="0" class="iframe" style="width:70%; height:100%; scrolling="no">
                 	</iframe>         
             </div>                
-
-
-
 			<%@ include file="include/header.jsp" %>
-
         </div>
 
         <!-- Banner -->
-        <section id="banner" style="padding-left: 150px; padding-right: 150px;">
+        <section id="banner" style="padding-left: 150px; padding-right: 150px; margin-top: 150px; margin-bottom: 150px;">
             <header>
                 <h2 style="font-family: 'Alatsi', sans-serif">Universal <b style="color: red;font-family: 'Alatsi', sans-serif">JRF</b>.</h2>
                 <p style="font-family: 'Quicksand', sans-serif">
@@ -129,11 +126,16 @@
                 </p>
             </header>
 
-            <section class="bannerimg slider image featured" style="height: 80%;">
-                <div><img src="resources/images/banner07.jpg" /></div>
+			<div class="bannerimg slider image featured" style="height: 400px;">
+				<div><img src="resources/images/banner07.jpg" /></div>
                 <div><img src="resources/images/banner15.jpg" /></div>
                 <div><img src="resources/images/banner21.jpg" /></div>
+			</div>
+            <!-- 
+            <section class="bannerimg slider image featured" style="height: 80%;">
+                
             </section>
+             -->
 
         </section>
 
@@ -141,12 +143,11 @@
 
         <!-- Introduce -->
         <div id="intro" class="wrapper style2">
-
             <section class="container special">
-                <header id="intro_header">
-                    <h2 style="margin-bottom: 50px;font-family: 'Alatsi', sans-serif">Why Choose JRF?</h2>
-                     
+                <header id="intro_header" style="margin-bottom: 50px;">
+                    <h2 style="font-family: 'Alatsi', sans-serif;">Why Choose JRF?</h2>
                 </header>
+                
                 <div class="row">
                     <article class="col-4 col-12-mobile special">
                         <div class="articleimage">
@@ -183,7 +184,6 @@
                     </article>
                 </div>
             </section>
-
         </div>
 
         <%@ include file="include/footer.jsp" %>
