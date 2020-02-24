@@ -2,16 +2,7 @@
 <%@ page session="false" pageEncoding="utf-8" %>
 <html>
 	<head>	
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154000930-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-154000930-1');
-</script>
-	
+<!-- Global site tag (gtag.js) - Google Analytics -->	
 		<title>JRF Korea</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -21,26 +12,40 @@
 		<link rel="stylesheet" href="resources/assets/css/noscript.css" />
 		<link href="https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">		
-
+		<!-- Scripts -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154000930-1"></script>
+		<script src="resources/assets/js/jquery.min.js"></script>
+		<script src="resources/assets/js/jquery.dropotron.min.js"></script>
+		<script src="resources/assets/js/jquery.scrolly.min.js"></script>
+		<script src="resources/assets/js/jquery.scrollex.min.js"></script>
+		<script src="resources/assets/js/browser.min.js"></script>
+		<script src="resources/assets/js/breakpoints.min.js"></script>
+		<script src="resources/assets/js/util.js"></script>
+		<script src="resources/assets/js/main.js"></script>
+        <script type="text/javascript" src="resources/assets/slick/slick.min.js"></script>		
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-154000930-1');
+		</script>		
 		<style>
-      .fontone01 {
-				font-family: 'Alatsi', sans-serif;
-      }
-      .fonttow{
-      			font-family: 'Quicksand', sans-serif;
-      }		
-		</style>		
+		      .fontone01 {
+						font-family: 'Alatsi', sans-serif;
+		      }
+		      .fonttow{
+		      			font-family: 'Quicksand', sans-serif;
+		      }
+     	 </style>
 	</head>
 	<body class="no-sidebar is-preload">
         <div id="page-wrapper">
-
             <!-- Header -->
             <div id="header" style="height: 107.3333px;">
 
                 <%@ include file="include/header.jsp" %>
 
             </div>
-
             <!-- Main -->
             <div class="wrapper style2">
 
@@ -88,7 +93,6 @@
                     </article>
                     <hr />
                 </div>
-
             </div>
 
             <div class="photohead"><h2>Photo</h2></div>
@@ -123,17 +127,5 @@
             <%@ include file="include/footer.jsp" %>
 
         </div>
-
-		<!-- Scripts -->
-			<script src="resources/assets/js/jquery.min.js"></script>
-			<script src="resources/assets/js/jquery.dropotron.min.js"></script>
-			<script src="resources/assets/js/jquery.scrolly.min.js"></script>
-			<script src="resources/assets/js/jquery.scrollex.min.js"></script>
-			<script src="resources/assets/js/browser.min.js"></script>
-			<script src="resources/assets/js/breakpoints.min.js"></script>
-			<script src="resources/assets/js/util.js"></script>
-			<script src="resources/assets/js/main.js"></script>
-            <script type="text/javascript" src="resources/assets/slick/slick.min.js"></script>
-
 	</body>
 </html>
