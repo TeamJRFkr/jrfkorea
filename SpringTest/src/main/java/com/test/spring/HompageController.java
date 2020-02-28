@@ -68,7 +68,7 @@ public class HompageController {
 				System.out.println(list.receiveCountry + ":" + list.receiveCountry);
 			}
 		} else {
-			logger.info("�뜲�씠�꽣媛� �뾾�뒿�땲�떎.");
+			logger.info("listTest is fail");
 		}
 	}
 	
